@@ -31,27 +31,7 @@ Personal Finance Management: Helps individuals track their daily or monthly expe
 Budgeting: Assists in understanding spending habits to create and stick to a budget.
 Data Analysis Learning Tool: A practical project for beginners to learn Python, Pandas, and Matplotlib.
 
-## Setup Instructions
-1. Clone the Repository
-bash
-Copy code
-git clone https://github.com/your-username/personal-expense-tracker.git
-2. Navigate to the Project Directory
-bash
-Copy code
-cd personal-expense-tracker
-3. Install Dependencies
-Install the required Python libraries using:
 
-bash
-Copy code
-pip install -r requirements.txt
-4. Run the Project
-If using Jupyter Notebook:
-Open the expense_tracker.ipynb file in Jupyter Notebook and run the cells.
-
-If using Streamlit (optional):
-Run the Streamlit app with:
 
 bash
 Copy code
